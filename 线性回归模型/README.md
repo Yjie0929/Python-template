@@ -6,7 +6,7 @@ Coefficients: [
     -3.97638942e-06 -3.78654265e-03 -4.21314378e-01 -4.34513755e-01
 ]
 Intercept: -36.94192020718445
-Mean squared error: 0.5243209861846072
+Mean squared error: 0.5243209861846072  # 有优化空间
 ```
 
 ![Alt text](./线性回归示例图.png)
