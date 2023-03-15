@@ -25,6 +25,10 @@
 
 再次使用matplotlib的plot函数绘制了预测图像，并与原始数据进行对比。可以看到预测值大致延续了原始数据的波动范围。  
 
+ARIMA模型的损失函数是对数似然函数（log-likelihood function）
+
+ARIMA模型的优化算法是最大似然估计（maximum likelihood estimation）
+
 ### 图表分析；
 ```python
 很少用，就不做解析了
